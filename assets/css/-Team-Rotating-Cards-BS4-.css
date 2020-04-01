@@ -94,9 +94,6 @@
   flex-flow: column;
 }
 
-#fsdf {
-}
-
 .info-footer {
   display: flex;
   align-items: center;
@@ -116,9 +113,6 @@ info-footer p {
   background-color: #0088C7;
 }
 
-#logo-menu {
-  height: 25px;
-}
 
 .nav-item {
   align-items: center;
@@ -128,10 +122,6 @@ info-footer p {
 .navbar-dark .navbar-nav .nav-link {
   align-items: center;
   display: flex;
-}
-
-#logo-menu-ufrn {
-  height: 50px;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
@@ -185,12 +175,6 @@ info-footer p {
   background-color: rgb(48,158,209);
 }
 
-#pgn-sobre {
-  background-color: #eef4f7;
-}
-
-.text-center {
-}
 
 .text-center.title-section {
   color: rgb(0,126,184);
