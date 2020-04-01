@@ -1,0 +1,169 @@
+.carousel-inner {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.w-100.d-block {
+  height: 100%;
+}
+
+.w-100.d-block {
+}
+
+.w-100.d-block.imagem-carousel {
+  display: flex;
+  height: auto;
+  width: 100%;
+}
+
+.carousel-item-next, .carousel-item-prev, .carousel-item.active {
+  height: 100%;
+  display: flex;
+}
+
+body {
+  /*height: 100%;*/
+  font-family: HeiT ASC Traditional Chinese,M Hei PRC W45,AXIS Font Japanese W55,FB New Gothic,Gotham Book,system,sans-serif;
+}
+
+.col.item.social {
+  color: #ffcc1e;
+}
+
+#eventos {
+}
+
+#contato {
+  padding-bottom: 2vh !important;
+}
+
+#slide-imagens {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.w-100.d-block.imagem-carousel {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+#carousel-1 {
+  height: 40vh;
+}
+
+.highlight-phone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+
+#titulo-section {
+  text-align: center;
+  font-family: HeiT ASC Traditional Chinese,M Hei PRC W45,AXIS Font Japanese W55,FB New Gothic,Gotham Book,system,sans-serif;
+}
+
+footer .copyright {
+  text-align: center;
+}
+
+#box-cop {
+  justify-content: center;
+  height: 51px;
+  align-items: center;
+}
+
+#box-logos-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#logo-menu-ufrn {
+  height: 35px;
+}
+
+#logo-menu {
+  height: 35px;
+}
+
+.logo-header {
+  height: 35px;
+}
+
+.header-blue {
+  background-image: url(../../assets/img/13009.jpg);
+  height: 700px;
+}
+
+.row.features {
+  color: white;
+}
+
+.logo-footer {
+  width: 50%;
+}
+
+.row.grupo-logos-footer {
+  height: 100%;
+  display: flex;
+  align-items: start;
+}
+
+#pgn-sobre-barra-titulo {
+  /*padding: 5% 0% 2% 0%;*/
+  background-color: #ebedf6;
+  color: rgb(0,84,122);
+}
+
+#lista-eventos-pgn-eventos {
+  justify-content: space-around;
+}
+
+#super-card {
+  height: 100%;
+  background-color: white;
+  box-shadow: 0 10px 40px 0 rgba(47,47,47,.2);
+  /*padding: 15px;*/
+}
+
+.sessao-card {
+  padding: 15px;
+  /*height: 55vh;*/
+}
+
+.table td, .table th {
+}
+
+.col-md-12.col-lg-4.col-md-4.col-sm-12.titulo-info {
+  background-color: rgb(0,84,122);
+  height: 15vh;
+}
+
+.row.box-informacoes {
+  heigth: 50% !important;
+}
+
+.titulo-info h1 {
+  color: white;
+  margin-bottom: 0%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.info h1 {
+  color: grey;
+  margin-bottom: 0%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
